@@ -6,68 +6,48 @@
 
 <div align="center">
 
-# Harshal Patel
-
+# Harshal Patel  
 ### Frontend Engineer • Product Builder
 
-Building scalable dashboards, workflow platforms, and enterprise-grade web applications with a focus on architecture, performance, and clean user experience.
+Building scalable dashboards, workflow platforms, and modern web applications  
+with a focus on architecture, performance, and clean user experience.
+
+React • Next.js • TypeScript • Node.js • PostgreSQL • Tailwind CSS
+
+</div>
 
 <br />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+## Selected Work
 
-</div>
+**StackScope**  
+AI powered developer analytics dashboard focused on engineering visibility and product-grade frontend systems.
 
----
+**NewsroomOps UI**  
+Editorial workflow platform designed for structured content operations and internal team efficiency.
 
-<div align="center">
+**DocReview Pro**  
+Document review and annotation platform built around clarity, usability, and professional workflow design.
 
-## Featured Work
+<br />
 
-<a href="https://github.com/kookaboora/StackScope">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kookaboora&repo=StackScope&theme=tokyonight&hide_border=true" />
-</a>
+## Focus
 
-<a href="https://github.com/kookaboora/newsroomops-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kookaboora&repo=newsroomops-ui&theme=tokyonight&hide_border=true" />
-</a>
+- Frontend systems
+- Enterprise UI
+- Dashboard experiences
+- Workflow platforms
+- Reusable component architecture
 
-<a href="https://github.com/kookaboora/docreview-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kookaboora&repo=docreview-pro&theme=tokyonight&hide_border=true" />
-</a>
+<br />
 
-</div>
+## Approach
 
----
+I like building interfaces that make complex systems feel clear, fast, and usable.  
+My work is centered on product thinking, maintainable frontend architecture, and polished execution.
 
-<div align="center">
+<br />
 
-## Focus Areas
+## Availability
 
-Frontend systems • Enterprise UI • Dashboard experiences • Workflow platforms • Reusable component architecture
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Snapshot
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kookaboora&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kookaboora&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-Open to Frontend / Fullstack opportunities • South Korea • Global remote
-
-</div>
+Open to Frontend / Fullstack opportunities in South Korea and global remote teams.

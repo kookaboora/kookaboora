@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Harshal Patel  
+
 ### Frontend Engineer • Product Builder
 
 Building scalable dashboards, workflow platforms, and modern web applications  

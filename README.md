@@ -14,4 +14,8 @@ React • Next.js • TypeScript • Node.js • PostgreSQL • AWS • Tailwind
 - NewsroomOps UI → editorial workflow platform
 - DocReview Pro → document review and annotation platform
 
+## Open to Opportunities
+Frontend Engineer | React | Next.js | TypeScript
+Open to South Korea and remote roles
+
 

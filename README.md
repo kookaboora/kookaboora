@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Harshal Patel 👋
 
-<!--
-**kookaboora/kookaboora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on React, Next.js, TypeScript, and AI-powered web products.
 
-Here are some ideas to get you started:
+I build scalable dashboards, productivity tools, and modern fullstack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to Frontend / Fullstack opportunities in Korea and global remote teams.
+
+## Tech Stack
+React • Next.js • TypeScript • Node.js • PostgreSQL • AWS • Tailwind CSS
+
+## Featured Work
+- StackScope → AI-powered developer productivity dashboard
+- NewsroomOps UI → editorial workflow platform
+- DocReview Pro → document review and annotation platform
+
+

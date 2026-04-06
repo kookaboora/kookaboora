@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./github-banner.png" alt="Harshal Patel Banner" width="100%" />
 </p>
+<br />
 # Hi, I'm Harshal Patel 👋
 
 Frontend Engineer focused on React, Next.js, TypeScript, and AI-powered web products.

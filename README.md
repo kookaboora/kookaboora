@@ -6,13 +6,12 @@
 
 <div align="center">
 
-
+# Harshal Patel  
 ### Frontend Engineer • Product Builder
 
-Building scalable dashboards, workflow platforms, and modern web applications  
-with a focus on architecture, performance, and clean user experience.
+Building interfaces that make complex systems feel simple.
 
-React • Next.js • TypeScript • Node.js • PostgreSQL • Tailwind CSS
+React • Next.js • TypeScript • Node.js • PostgreSQL
 
 </div>
 
@@ -21,33 +20,28 @@ React • Next.js • TypeScript • Node.js • PostgreSQL • Tailwind CSS
 ## Selected Work
 
 **StackScope**  
-AI powered developer analytics dashboard focused on engineering visibility and product-grade frontend systems.
+AI powered developer analytics dashboard built for engineering visibility and product intelligence.
 
 **NewsroomOps UI**  
-Editorial workflow platform designed for structured content operations and internal team efficiency.
+Editorial workflow platform designed for structured content operations and team efficiency.
 
 **DocReview Pro**  
-Document review and annotation platform built around clarity, usability, and professional workflow design.
+Document review and annotation system focused on clarity, speed, and professional workflows.
 
 <br />
 
 ## Focus
 
-- Frontend systems
-- Enterprise UI
-- Dashboard experiences
-- Workflow platforms
-- Reusable component architecture
+Frontend systems • Enterprise UI • Dashboard experiences • Workflow platforms • Reusable component architecture
 
 <br />
 
-## Approach
+## Philosophy
 
-I like building interfaces that make complex systems feel clear, fast, and usable.  
-My work is centered on product thinking, maintainable frontend architecture, and polished execution.
+Clean architecture, thoughtful UX, and interfaces designed for real-world use.
 
 <br />
 
-## Availability
+## Open To
 
-Open to Frontend / Fullstack opportunities in South Korea and global remote teams.
+Frontend and Fullstack opportunities in South Korea and global remote teams.

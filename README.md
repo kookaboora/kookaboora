@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Harshal Patel  
+
 ### Frontend Engineer • Product Builder
 
 Building interfaces that make complex systems feel simple.
